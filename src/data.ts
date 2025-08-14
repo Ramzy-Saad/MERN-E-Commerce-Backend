@@ -10,8 +10,8 @@ export const sampleProducts: Product[] = [
     price: 70,
     countInStock: 20,
     description: 'A popular shirt',
-    rating: 4.5,
-    numReviews: 10,
+    rating: 3,
+    numReviews: 5,
   },
   {
     name: 'Free Short',
@@ -32,9 +32,9 @@ export const sampleProducts: Product[] = [
     category: 'Shirts',
     brand: 'Adidas',
     price: 120,
-    countInStock: 10,
+    countInStock: 0,
     description: 'A popular shirt',
-    rating: 3,
+    rating: 5,
     numReviews: 2,
   },
 ];
